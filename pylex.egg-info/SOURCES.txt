@@ -1,0 +1,10 @@
+README.md
+setup.py
+adyeno/__init__.py
+adyeno/exceptions.py
+pylex.egg-info/PKG-INFO
+pylex.egg-info/SOURCES.txt
+pylex.egg-info/dependency_links.txt
+pylex.egg-info/not-zip-safe
+pylex.egg-info/requires.txt
+pylex.egg-info/top_level.txt
